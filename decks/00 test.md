@@ -15,5 +15,5 @@ This is a test!
 
 ---
 
-> Test!!! This is test #2
+> Test!!!
 
