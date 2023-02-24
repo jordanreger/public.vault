@@ -29,7 +29,7 @@ async function handler(req: Request): Promise<Response> {
     }
   } else {
     if(path === "/") {
-      page = `<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, shrink-to-fit=no"><link rel="preload" href="/index.css" as="style"><link rel="stylesheet" media="all" href="/index.css" type="text/css">` + `<h1>md.jordanreger.com</h1>` + Marked.parse(await Deno.readTextFile(`./index.md`)).content;
+      page = `<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5, shrink-to-fit=no"><link rel="preload" href="/index.css" as="style"><link rel="stylesheet" media="all" href="/index.css" type="text/css">` + `<h1>public.vault</h1>` + Marked.parse(await Deno.readTextFile(`./index.md`)).content;
       content_type = "text/html; charset=utf-8";
     } else {
       try {
