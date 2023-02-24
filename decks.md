@@ -1,1 +1,1 @@
-[00](/decks/00)
+[glass](decks/glass.md)
