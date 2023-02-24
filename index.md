@@ -1,0 +1,1 @@
+Welcome to my personal vault. There's mostly markdown files in here, but there's also the occasional image or text file.
