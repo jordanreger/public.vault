@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decks/00 test.md",
+                "file": "decks/00.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decks/00 test.md",
+                "file": "decks/00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decks/00 test.md",
+                "file": "decks/00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decks/00 test.md"
+                "file": "decks/00.md"
               }
             }
           }
@@ -150,7 +150,7 @@
   "active": "baee1251f1d9dd3a",
   "lastOpenFiles": [
     "decks/00/main.md",
-    "decks/00 test.md",
+    "decks/00.md",
     "decks/00",
     "decks"
   ]
