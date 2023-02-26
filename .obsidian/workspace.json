@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f88ef1774ac28434",
+        "id": "e1820318988385a2",
         "type": "tabs",
         "children": [
           {
-            "id": "bb3554e70f1cff27",
+            "id": "e39048dda1e325f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "decks/glass.md",
+                "file": "projects/glass.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "decks/glass.md",
+                "file": "projects/glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "decks/glass.md",
+                "file": "projects/glass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "decks/glass.md"
+                "file": "projects/glass.md"
               }
             }
           }
@@ -147,10 +147,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bb3554e70f1cff27",
+  "active": "e39048dda1e325f7",
   "lastOpenFiles": [
-    "decks.md",
+    "projects/crate.md",
+    "posts/I Hate Almost All Software.md",
+    "posts/Why RSS Still Matters.md",
+    "posts/Digital Preservation.md",
+    "posts/Urban Master Plan, V1.md",
     "decks/glass.md",
+    "posts",
+    "decks.md",
     "projects/glass.md",
     "Obsidian.md",
     "index.md",
