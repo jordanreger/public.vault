@@ -38,3 +38,6 @@ The below script will allow you to see all user-installed packages, in case you 
 ```sh
 pm list packages -3|cut -f 2 -d ":"
 ```
+
+## Development
+Go to the page about [Glassware development](/projects/glassware).
