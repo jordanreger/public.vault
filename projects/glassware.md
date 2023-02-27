@@ -58,6 +58,9 @@ At the path `app/res/layout/activity_main.xml`, we're going to replace everythin
 
 ---
 
+# `themes.xml`
+
+
 # `show_me_a_demo.xml` (new)
 We must make a new file at the path `app/res/xml` entitled `show_me_a_demo.xml`, and inside is:
 
