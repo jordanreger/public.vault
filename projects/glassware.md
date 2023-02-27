@@ -1,4 +1,4 @@
-After initializing a new **Empty Activity** project, follow this guide to properly set up your Glassware app for modern development.
+After initializing a new **Empty Activity** project with the **Minimum SDK** set to `API 19: Android 4.4 (KitKat)`, follow this guide to properly set up your Glassware app for modern development.
 
 # `AndroidManifest.xml`
 At the path `app/manifests/AndroidManifest.xml`, we're going to tweak a couple things. Replace the `<activity></activity>` with what's below:
