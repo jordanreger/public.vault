@@ -16,6 +16,12 @@ At the path `app/manifests/AndroidManifest.xml`, we're going to tweak a couple t
 </activity>
 ```
 
+Also, to make sure you don't blind yourself, remove the following line inside the first `<application>` tag:
+
+```xml
+android:theme="@style/Theme.{project name}"
+```
+
 ---
 
 # `MainActivity.java`
@@ -57,9 +63,6 @@ At the path `app/res/layout/activity_main.xml`, we're going to replace everythin
 ```
 
 ---
-
-# `themes.xml`
-
 
 # `show_me_a_demo.xml` (new)
 We must make a new file at the path `app/res/xml` entitled `show_me_a_demo.xml`, and inside is:
