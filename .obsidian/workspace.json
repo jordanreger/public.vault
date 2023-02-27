@@ -11,8 +11,12 @@
             "id": "d23e7d05b82bbc36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "posts/I Hate Almost All Software.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/I Hate Almost All Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "posts/I Hate Almost All Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/I Hate Almost All Software.md"
+              }
             }
           }
         ]
@@ -141,8 +149,8 @@
   },
   "active": "d23e7d05b82bbc36",
   "lastOpenFiles": [
-    "posts/I Hate Almost All Software.md",
     "posts/Digital Preservation.md",
+    "posts/I Hate Almost All Software.md",
     "decks/_Index_of_decks.md",
     "posts/_Index_of_posts.md",
     "projects/_Index_of_projects.md",
