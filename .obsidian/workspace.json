@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/glassware.md",
+                "file": "projects/glass.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0b0b8581aa95bf99",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/glassware.md",
+                "file": "projects/glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/glassware.md",
+                "file": "projects/glass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/glassware.md"
+                "file": "projects/glass.md"
               }
             }
           }
@@ -150,8 +149,8 @@
   },
   "active": "c9f549ced39f956d",
   "lastOpenFiles": [
-    "projects/glass.md",
     "projects/glassware.md",
+    "projects/glass.md",
     "glassware.md",
     "projects/crate.md",
     "posts/I Hate Almost All Software.md",
