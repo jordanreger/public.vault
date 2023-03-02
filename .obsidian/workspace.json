@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "projects/glassware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "projects/glassware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "projects/glassware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "projects/glassware.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "d23e7d05b82bbc36",
   "lastOpenFiles": [
+    "Obsidian.md",
     "posts/I Hate Almost All Software.md",
     "posts/Digital Preservation.md",
     "decks/_Index_of_decks.md",
@@ -166,7 +167,6 @@
     "decks/glass.md",
     "posts",
     "decks.md",
-    "Obsidian.md",
     "decks/00/main.md",
     "decks/00",
     "decks"

@@ -4,6 +4,9 @@ Before we start; if your Glass isn't set up yet, view [this page](/projects/glas
 # Getting Started
 First, let's initialize a new **Empty Activity** project with the **Minimum SDK** set to `API 19: Android 4.4 (KitKat)`. Wait for a bit for it to get itself set up, and then we're ready to move on. 
 
+# Importing the GDK
+To get started, you can [download the *original* GDK](https://github.com/jordanreger/gdk/releases/download/v1.0.0/gdk.jar) from my GitHub. Here's the source if you ever want to take a look: [jordanreger/gdk](https://github.com/jordanreger/gdk). Drag the GDK into the `app/libs` folder (which can be found by switching the tab at the top left from `Android` to `Project`). You will now be able to use the old GDK in whatever version you're using!
+
 # Changes
 Below are a few changes we need to make before we're ready to run:
 
@@ -23,7 +26,7 @@ At the path `app/manifests/AndroidManifest.xml`, we're going to tweak just a cou
 </activity>
 ```
 
-Also, to make sure you don't blind yourself, remove the following line inside the first `<application>` tag:
+As mentioned [here](https://developers.google.com/glass/develop/gdk/quick-start#:~:text=Theme%3A%20None%20(ADT%20and%20Android%20Studio%20usually%20assign%20a%20theme%20automatically%2C%20even%20if%20you%20specify%20no%20theme%2C%20so%20remove%20the%20android%3Atheme%20property%20from%20your%20manifest%20after%20creating%20a%20project.) on step  to make sure you don't blind yourself, remove the following line inside the first `<application>` tag:
 
 ```xml
 android:theme="@style/Theme.{project name}"
