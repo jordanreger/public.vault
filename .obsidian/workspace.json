@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/I Hate Almost All Software.md",
+                "file": "Obsidian.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/I Hate Almost All Software.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/I Hate Almost All Software.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/I Hate Almost All Software.md"
+                "file": "Obsidian.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "d23e7d05b82bbc36",
   "lastOpenFiles": [
-    "posts/Digital Preservation.md",
     "posts/I Hate Almost All Software.md",
+    "posts/Digital Preservation.md",
     "decks/_Index_of_decks.md",
     "posts/_Index_of_posts.md",
     "projects/_Index_of_projects.md",
