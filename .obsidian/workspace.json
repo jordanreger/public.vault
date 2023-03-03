@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/glass.md",
+                "file": "projects/glassware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/glass.md",
+                "file": "projects/glassware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/glass.md",
+                "file": "projects/glassware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/glass.md"
+                "file": "projects/glassware.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "d23e7d05b82bbc36",
   "lastOpenFiles": [
+    "projects/glass.md",
     "index.md",
     "projects/glassware.md",
     "Obsidian.md",
@@ -160,7 +161,6 @@
     "static/_Index_of_static.md",
     "_Index_of_public.vault.md",
     "posts/Why RSS Still Matters.md",
-    "projects/glass.md",
     "glassware.md",
     "projects/crate.md",
     "posts/Urban Master Plan, V1.md",
