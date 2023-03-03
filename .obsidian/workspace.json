@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "projects/glass.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "projects/glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "projects/glass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "projects/glass.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "d23e7d05b82bbc36",
   "lastOpenFiles": [
+    "index.md",
     "projects/glassware.md",
     "Obsidian.md",
     "posts/I Hate Almost All Software.md",
@@ -158,7 +159,6 @@
     "projects/_Index_of_projects.md",
     "static/_Index_of_static.md",
     "_Index_of_public.vault.md",
-    "index.md",
     "posts/Why RSS Still Matters.md",
     "projects/glass.md",
     "glassware.md",
